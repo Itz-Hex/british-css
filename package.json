@@ -1,0 +1,19 @@
+{
+  "name": "british-css",
+  "version": "1.0.0",
+  "description": "A superior version of css which uses british english spellings.",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node compiler.js"
+  },
+  "keywords": [
+    "british",
+    "css",
+    "bcss"
+  ],
+  "author": "ItzHex",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
